@@ -1,3 +1,5 @@
+# Code by- RahulGuptaNitro
+
 for ii in range(int(input())):
     n,d=map(int,input().split())
     x=list(map(int,input().split()))
